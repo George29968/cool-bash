@@ -1,6 +1,8 @@
+# Content
+
 My .bashrc configuration file.
 
-# Dependencies 
+## Dependencies 
 - 	exa
 - 	lightdm 
 - 	expac
