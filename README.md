@@ -6,10 +6,10 @@ My .bashrc configuration file.
 - expac
 - bat
 
-## Exa is the ls alternative.
+### Exa is the ls alternative.
 
-## Lightdm is the display manager.
+### Lightdm is the display manager.
 
-## Expac is the pacman database extraction utility.
+### Expac is the pacman database extraction utility.
 
-## Bat is cat command clone with syntax highlighting and Git integration.
+### Bat is cat command clone with syntax highlighting and Git integration.
