@@ -10,6 +10,6 @@ My .bashrc configuration file.
 
 ## Lightdm is the display manager.
 
-## Expac is the pacman database extraction utility
+## Expac is the pacman database extraction utility.
 
 ## Bat is cat command clone with syntax highlighting and Git integration.
