@@ -1,10 +1,10 @@
 My .bashrc configuration file.
 
 # Dependencies 
-- exa
-- lightdm 
-- expac
-- bat
+- 	exa
+- 	lightdm 
+- 	expac
+- 	bat
 
 ### Exa is the ls alternative.
 
