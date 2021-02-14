@@ -7,7 +7,7 @@ My .bashrc configuration file.
 - 	lightdm 
 - 	expac
 - 	bat
--	Kitty Terminal
+-	kitty 
 
 ####  1. Exa is the ls alternative.
 
