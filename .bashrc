@@ -146,3 +146,6 @@ ex ()
   fi
 }
 
+#Kitty Term SSH
+#alias ssh="kitty +kitten ssh"
+
